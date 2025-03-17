@@ -1,0 +1,472 @@
+[
+  {
+    "id": "G001",
+    "name": "可口可乐",
+    "barcode": "6901234567890",
+    "category1": "饮料",
+    "category2": "碳酸饮料",
+    "taxRate": 0.13,
+    "initialInventory": {
+      "quantity": 100,
+      "retailAmountWithTax": 300.00,
+      "retailAmountWithoutTax": 265.49,
+      "costAmountWithTax": 200.00,
+      "costAmountWithoutTax": 176.99
+    },
+    "purchase": {
+      "quantity": 200,
+      "retailAmountWithTax": 600.00,
+      "retailAmountWithoutTax": 530.97,
+      "costAmountWithTax": 400.00,
+      "costAmountWithoutTax": 353.98
+    },
+    "sales": {
+      "quantity": 150,
+      "retailAmountWithTax": 450.00,
+      "retailAmountWithoutTax": 398.23,
+      "costAmountWithTax": 300.00,
+      "costAmountWithoutTax": 265.49
+    },
+    "inventory": {
+      "quantity": 5,
+      "retailAmountWithTax": 15.00,
+      "retailAmountWithoutTax": 13.27,
+      "costAmountWithTax": 10.00,
+      "costAmountWithoutTax": 8.85
+    },
+    "selfUse": {
+      "quantity": 10,
+      "retailAmountWithTax": 30.00,
+      "retailAmountWithoutTax": 26.55,
+      "costAmountWithTax": 20.00,
+      "costAmountWithoutTax": 17.70
+    },
+    "salesReturn": {
+      "quantity": 5,
+      "retailAmountWithTax": 15.00,
+      "retailAmountWithoutTax": 13.27,
+      "costAmountWithTax": 10.00,
+      "costAmountWithoutTax": 8.85
+    },
+    "supplierReturn": {
+      "quantity": 8,
+      "retailAmountWithTax": 24.00,
+      "retailAmountWithoutTax": 21.24,
+      "costAmountWithTax": 16.00,
+      "costAmountWithoutTax": 14.16
+    },
+    "transferIn": {
+      "quantity": 20,
+      "retailAmountWithTax": 60.00,
+      "retailAmountWithoutTax": 53.10,
+      "costAmountWithTax": 40.00,
+      "costAmountWithoutTax": 35.40
+    },
+    "transferOut": {
+      "quantity": 15,
+      "retailAmountWithTax": 45.00,
+      "retailAmountWithoutTax": 39.82,
+      "costAmountWithTax": 30.00,
+      "costAmountWithoutTax": 26.55
+    },
+    "inventoryChange": {
+      "quantity": 2,
+      "retailAmountWithTax": 6.00,
+      "retailAmountWithoutTax": 5.31,
+      "costAmountWithTax": 4.00,
+      "costAmountWithoutTax": 3.54
+    },
+    "costAdjustment": {
+      "costAmountWithTax": 5.00,
+      "costAmountWithoutTax": 4.42
+    },
+    "priceAdjustment": {
+      "retailAmountWithTax": 10.00,
+      "retailAmountWithoutTax": 8.85
+    },
+    "finalInventory": {
+      "quantity": 149,
+      "retailAmountWithTax": 457.00,
+      "retailAmountWithoutTax": 404.42,
+      "costAmountWithTax": 313.00,
+      "costAmountWithoutTax": 277.00,
+      "retailPriceWithTax": 3.07
+    }
+  },
+  {
+    "id": "G002",
+    "name": "雪碧",
+    "barcode": "6901234567891",
+    "category1": "饮料",
+    "category2": "碳酸饮料",
+    "taxRate": 0.13,
+    "initialInventory": {
+      "quantity": 80,
+      "retailAmountWithTax": 240.00,
+      "retailAmountWithoutTax": 212.39,
+      "costAmountWithTax": 160.00,
+      "costAmountWithoutTax": 141.59
+    },
+    "purchase": {
+      "quantity": 150,
+      "retailAmountWithTax": 450.00,
+      "retailAmountWithoutTax": 398.23,
+      "costAmountWithTax": 300.00,
+      "costAmountWithoutTax": 265.49
+    },
+    "sales": {
+      "quantity": 120,
+      "retailAmountWithTax": 360.00,
+      "retailAmountWithoutTax": 318.58,
+      "costAmountWithTax": 240.00,
+      "costAmountWithoutTax": 212.39
+    },
+    "inventory": {
+      "quantity": 3,
+      "retailAmountWithTax": 9.00,
+      "retailAmountWithoutTax": 7.96,
+      "costAmountWithTax": 6.00,
+      "costAmountWithoutTax": 5.31
+    },
+    "selfUse": {
+      "quantity": 8,
+      "retailAmountWithTax": 24.00,
+      "retailAmountWithoutTax": 21.24,
+      "costAmountWithTax": 16.00,
+      "costAmountWithoutTax": 14.16
+    },
+    "salesReturn": {
+      "quantity": 4,
+      "retailAmountWithTax": 12.00,
+      "retailAmountWithoutTax": 10.62,
+      "costAmountWithTax": 8.00,
+      "costAmountWithoutTax": 7.08
+    },
+    "supplierReturn": {
+      "quantity": 5,
+      "retailAmountWithTax": 15.00,
+      "retailAmountWithoutTax": 13.27,
+      "costAmountWithTax": 10.00,
+      "costAmountWithoutTax": 8.85
+    },
+    "transferIn": {
+      "quantity": 15,
+      "retailAmountWithTax": 45.00,
+      "retailAmountWithoutTax": 39.82,
+      "costAmountWithTax": 30.00,
+      "costAmountWithoutTax": 26.55
+    },
+    "transferOut": {
+      "quantity": 10,
+      "retailAmountWithTax": 30.00,
+      "retailAmountWithoutTax": 26.55,
+      "costAmountWithTax": 20.00,
+      "costAmountWithoutTax": 17.70
+    },
+    "inventoryChange": {
+      "quantity": 1,
+      "retailAmountWithTax": 3.00,
+      "retailAmountWithoutTax": 2.65,
+      "costAmountWithTax": 2.00,
+      "costAmountWithoutTax": 1.77
+    },
+    "costAdjustment": {
+      "costAmountWithTax": 3.00,
+      "costAmountWithoutTax": 2.65
+    },
+    "priceAdjustment": {
+      "retailAmountWithTax": 6.00,
+      "retailAmountWithoutTax": 5.31
+    },
+    "finalInventory": {
+      "quantity": 110,
+      "retailAmountWithTax": 336.00,
+      "retailAmountWithoutTax": 297.35,
+      "costAmountWithTax": 229.00,
+      "costAmountWithoutTax": 202.65,
+      "retailPriceWithTax": 3.05
+    }
+  },
+  {
+    "id": "G003",
+    "name": "农夫山泉",
+    "barcode": "6901234567892",
+    "category1": "饮料",
+    "category2": "矿泉水",
+    "taxRate": 0.13,
+    "initialInventory": {
+      "quantity": 200,
+      "retailAmountWithTax": 400.00,
+      "retailAmountWithoutTax": 353.98,
+      "costAmountWithTax": 240.00,
+      "costAmountWithoutTax": 212.39
+    },
+    "purchase": {
+      "quantity": 300,
+      "retailAmountWithTax": 600.00,
+      "retailAmountWithoutTax": 530.97,
+      "costAmountWithTax": 360.00,
+      "costAmountWithoutTax": 318.58
+    },
+    "sales": {
+      "quantity": 250,
+      "retailAmountWithTax": 500.00,
+      "retailAmountWithoutTax": 442.48,
+      "costAmountWithTax": 300.00,
+      "costAmountWithoutTax": 265.49
+    },
+    "inventory": {
+      "quantity": 10,
+      "retailAmountWithTax": 20.00,
+      "retailAmountWithoutTax": 17.70,
+      "costAmountWithTax": 12.00,
+      "costAmountWithoutTax": 10.62
+    },
+    "selfUse": {
+      "quantity": 15,
+      "retailAmountWithTax": 30.00,
+      "retailAmountWithoutTax": 26.55,
+      "costAmountWithTax": 18.00,
+      "costAmountWithoutTax": 15.93
+    },
+    "salesReturn": {
+      "quantity": 8,
+      "retailAmountWithTax": 16.00,
+      "retailAmountWithoutTax": 14.16,
+      "costAmountWithTax": 9.60,
+      "costAmountWithoutTax": 8.50
+    },
+    "supplierReturn": {
+      "quantity": 12,
+      "retailAmountWithTax": 24.00,
+      "retailAmountWithoutTax": 21.24,
+      "costAmountWithTax": 14.40,
+      "costAmountWithoutTax": 12.74
+    },
+    "transferIn": {
+      "quantity": 25,
+      "retailAmountWithTax": 50.00,
+      "retailAmountWithoutTax": 44.25,
+      "costAmountWithTax": 30.00,
+      "costAmountWithoutTax": 26.55
+    },
+    "transferOut": {
+      "quantity": 20,
+      "retailAmountWithTax": 40.00,
+      "retailAmountWithoutTax": 35.40,
+      "costAmountWithTax": 24.00,
+      "costAmountWithoutTax": 21.24
+    },
+    "inventoryChange": {
+      "quantity": 3,
+      "retailAmountWithTax": 6.00,
+      "retailAmountWithoutTax": 5.31,
+      "costAmountWithTax": 3.60,
+      "costAmountWithoutTax": 3.19
+    },
+    "costAdjustment": {
+      "costAmountWithTax": 4.80,
+      "costAmountWithoutTax": 4.25
+    },
+    "priceAdjustment": {
+      "retailAmountWithTax": 8.00,
+      "retailAmountWithoutTax": 7.08
+    },
+    "finalInventory": {
+      "quantity": 239,
+      "retailAmountWithTax": 486.00,
+      "retailAmountWithoutTax": 430.09,
+      "costAmountWithTax": 298.60,
+      "costAmountWithoutTax": 264.25,
+      "retailPriceWithTax": 2.03
+    }
+  },
+  {
+    "id": "G004",
+    "name": "康师傅方便面",
+    "barcode": "6901234567893",
+    "category1": "食品",
+    "category2": "方便食品",
+    "taxRate": 0.13,
+    "initialInventory": {
+      "quantity": 150,
+      "retailAmountWithTax": 450.00,
+      "retailAmountWithoutTax": 398.23,
+      "costAmountWithTax": 300.00,
+      "costAmountWithoutTax": 265.49
+    },
+    "purchase": {
+      "quantity": 250,
+      "retailAmountWithTax": 750.00,
+      "retailAmountWithoutTax": 663.72,
+      "costAmountWithTax": 500.00,
+      "costAmountWithoutTax": 442.48
+    },
+    "sales": {
+      "quantity": 200,
+      "retailAmountWithTax": 600.00,
+      "retailAmountWithoutTax": 530.97,
+      "costAmountWithTax": 400.00,
+      "costAmountWithoutTax": 353.98
+    },
+    "inventory": {
+      "quantity": 8,
+      "retailAmountWithTax": 24.00,
+      "retailAmountWithoutTax": 21.24,
+      "costAmountWithTax": 16.00,
+      "costAmountWithoutTax": 14.16
+    },
+    "selfUse": {
+      "quantity": 12,
+      "retailAmountWithTax": 36.00,
+      "retailAmountWithoutTax": 31.86,
+      "costAmountWithTax": 24.00,
+      "costAmountWithoutTax": 21.24
+    },
+    "salesReturn": {
+      "quantity": 6,
+      "retailAmountWithTax": 18.00,
+      "retailAmountWithoutTax": 15.93,
+      "costAmountWithTax": 12.00,
+      "costAmountWithoutTax": 10.62
+    },
+    "supplierReturn": {
+      "quantity": 10,
+      "retailAmountWithTax": 30.00,
+      "retailAmountWithoutTax": 26.55,
+      "costAmountWithTax": 20.00,
+      "costAmountWithoutTax": 17.70
+    },
+    "transferIn": {
+      "quantity": 30,
+      "retailAmountWithTax": 90.00,
+      "retailAmountWithoutTax": 79.65,
+      "costAmountWithTax": 60.00,
+      "costAmountWithoutTax": 53.10
+    },
+    "transferOut": {
+      "quantity": 25,
+      "retailAmountWithTax": 75.00,
+      "retailAmountWithoutTax": 66.37,
+      "costAmountWithTax": 50.00,
+      "costAmountWithoutTax": 44.25
+    },
+    "inventoryChange": {
+      "quantity": 4,
+      "retailAmountWithTax": 12.00,
+      "retailAmountWithoutTax": 10.62,
+      "costAmountWithTax": 8.00,
+      "costAmountWithoutTax": 7.08
+    },
+    "costAdjustment": {
+      "costAmountWithTax": 6.00,
+      "costAmountWithoutTax": 5.31
+    },
+    "priceAdjustment": {
+      "retailAmountWithTax": 9.00,
+      "retailAmountWithoutTax": 7.96
+    },
+    "finalInventory": {
+      "quantity": 195,
+      "retailAmountWithTax": 594.00,
+      "retailAmountWithoutTax": 525.66,
+      "costAmountWithTax": 402.00,
+      "costAmountWithoutTax": 355.75,
+      "retailPriceWithTax": 3.05
+    }
+  },
+  {
+    "id": "G005",
+    "name": "统一老坛酸菜面",
+    "barcode": "6901234567894",
+    "category1": "食品",
+    "category2": "方便食品",
+    "taxRate": 0.13,
+    "initialInventory": {
+      "quantity": 120,
+      "retailAmountWithTax": 360.00,
+      "retailAmountWithoutTax": 318.58,
+      "costAmountWithTax": 240.00,
+      "costAmountWithoutTax": 212.39
+    },
+    "purchase": {
+      "quantity": 180,
+      "retailAmountWithTax": 540.00,
+      "retailAmountWithoutTax": 477.88,
+      "costAmountWithTax": 360.00,
+      "costAmountWithoutTax": 318.58
+    },
+    "sales": {
+      "quantity": 160,
+      "retailAmountWithTax": 480.00,
+      "retailAmountWithoutTax": 424.78,
+      "costAmountWithTax": 320.00,
+      "costAmountWithoutTax": 283.19
+    },
+    "inventory": {
+      "quantity": 6,
+      "retailAmountWithTax": 18.00,
+      "retailAmountWithoutTax": 15.93,
+      "costAmountWithTax": 12.00,
+      "costAmountWithoutTax": 10.62
+    },
+    "selfUse": {
+      "quantity": 9,
+      "retailAmountWithTax": 27.00,
+      "retailAmountWithoutTax": 23.89,
+      "costAmountWithTax": 18.00,
+      "costAmountWithoutTax": 15.93
+    },
+    "salesReturn": {
+      "quantity": 5,
+      "retailAmountWithTax": 15.00,
+      "retailAmountWithoutTax": 13.27,
+      "costAmountWithTax": 10.00,
+      "costAmountWithoutTax": 8.85
+    },
+    "supplierReturn": {
+      "quantity": 8,
+      "retailAmountWithTax": 24.00,
+      "retailAmountWithoutTax": 21.24,
+      "costAmountWithTax": 16.00,
+      "costAmountWithoutTax": 14.16
+    },
+    "transferIn": {
+      "quantity": 22,
+      "retailAmountWithTax": 66.00,
+      "retailAmountWithoutTax": 58.41,
+      "costAmountWithTax": 44.00,
+      "costAmountWithoutTax": 38.94
+    },
+    "transferOut": {
+      "quantity": 18,
+      "retailAmountWithTax": 54.00,
+      "retailAmountWithoutTax": 47.79,
+      "costAmountWithTax": 36.00,
+      "costAmountWithoutTax": 31.86
+    },
+    "inventoryChange": {
+      "quantity": 3,
+      "retailAmountWithTax": 9.00,
+      "retailAmountWithoutTax": 7.96,
+      "costAmountWithTax": 6.00,
+      "costAmountWithoutTax": 5.31
+    },
+    "costAdjustment": {
+      "costAmountWithTax": 4.50,
+      "costAmountWithoutTax": 3.98
+    },
+    "priceAdjustment": {
+      "retailAmountWithTax": 7.50,
+      "retailAmountWithoutTax": 6.64
+    },
+    "finalInventory": {
+      "quantity": 139,
+      "retailAmountWithTax": 424.50,
+      "retailAmountWithoutTax": 375.66,
+      "costAmountWithTax": 286.50,
+      "costAmountWithoutTax": 253.54,
+      "retailPriceWithTax": 3.05
+    }
+  }
+] 

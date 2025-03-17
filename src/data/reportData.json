@@ -1,0 +1,206 @@
+{
+  "initialInventoryData": [
+    {
+      "stationName": "station-1-1-1",
+      "oilName": "92#汽油",
+      "dateRange": "2023-01-01 ~ 2023-01-31",
+      "initialV20Liters": 5000,
+      "initialPrice": 7.23,
+      "initialAmount": 36150
+    },
+    {
+      "stationName": "station-1-1-2",
+      "oilName": "95#汽油",
+      "dateRange": "2023-01-01 ~ 2023-01-31",
+      "initialV20Liters": 3500,
+      "initialPrice": 7.76,
+      "initialAmount": 27160
+    },
+    {
+      "stationName": "station-2-1-1",
+      "oilName": "92#汽油",
+      "dateRange": "2023-01-01 ~ 2023-01-31",
+      "initialV20Liters": 4800,
+      "initialPrice": 7.25,
+      "initialAmount": 34800
+    },
+    {
+      "stationName": "station-2-1-2",
+      "oilName": "95#汽油",
+      "dateRange": "2023-01-01 ~ 2023-01-31",
+      "initialV20Liters": 3200,
+      "initialPrice": 7.78,
+      "initialAmount": 24896
+    },
+    {
+      "stationName": "station-3-1-1",
+      "oilName": "92#汽油",
+      "dateRange": "2023-01-01 ~ 2023-01-31",
+      "initialV20Liters": 4500,
+      "initialPrice": 7.20,
+      "initialAmount": 32400
+    },
+    {
+      "stationName": "station-3-1-2",
+      "oilName": "95#汽油",
+      "dateRange": "2023-01-01 ~ 2023-01-31",
+      "initialV20Liters": 3000,
+      "initialPrice": 7.75,
+      "initialAmount": 23250
+    }
+  ],
+  "salesData": [
+    {
+      "stationName": "station-1-1-1",
+      "oilName": "92#汽油",
+      "dateRange": "2023-01-01 ~ 2023-01-31",
+      "outboundV20Liters": 850,
+      "expectedSalesAmount": 6145.5,
+      "cashAmount": 2000,
+      "wechatAmount": 2500,
+      "alipayAmount": 1500,
+      "creditCardAmount": 100,
+      "otherAmount": 0,
+      "actualSalesAmount": 6100,
+      "salesDifference": -45.5
+    },
+    {
+      "stationName": "station-1-1-2",
+      "oilName": "95#汽油",
+      "dateRange": "2023-01-01 ~ 2023-01-31",
+      "outboundV20Liters": 650,
+      "expectedSalesAmount": 5044,
+      "cashAmount": 1500,
+      "wechatAmount": 2000,
+      "alipayAmount": 1200,
+      "creditCardAmount": 300,
+      "otherAmount": 0,
+      "actualSalesAmount": 5000,
+      "salesDifference": -44
+    },
+    {
+      "stationName": "station-2-1-1",
+      "oilName": "92#汽油",
+      "dateRange": "2023-01-01 ~ 2023-01-31",
+      "outboundV20Liters": 900,
+      "expectedSalesAmount": 6525,
+      "cashAmount": 2200,
+      "wechatAmount": 2800,
+      "alipayAmount": 1600,
+      "creditCardAmount": 0,
+      "otherAmount": 0,
+      "actualSalesAmount": 6600,
+      "salesDifference": 75
+    },
+    {
+      "stationName": "station-2-1-2",
+      "oilName": "95#汽油",
+      "dateRange": "2023-01-01 ~ 2023-01-31",
+      "outboundV20Liters": 700,
+      "expectedSalesAmount": 5446,
+      "cashAmount": 1800,
+      "wechatAmount": 2200,
+      "alipayAmount": 1400,
+      "creditCardAmount": 100,
+      "otherAmount": 0,
+      "actualSalesAmount": 5500,
+      "salesDifference": 54
+    },
+    {
+      "stationName": "station-3-1-1",
+      "oilName": "92#汽油",
+      "dateRange": "2023-01-01 ~ 2023-01-31",
+      "outboundV20Liters": 800,
+      "expectedSalesAmount": 5760,
+      "cashAmount": 1900,
+      "wechatAmount": 2300,
+      "alipayAmount": 1500,
+      "creditCardAmount": 50,
+      "otherAmount": 0,
+      "actualSalesAmount": 5750,
+      "salesDifference": -10
+    },
+    {
+      "stationName": "station-3-1-2",
+      "oilName": "95#汽油",
+      "dateRange": "2023-01-01 ~ 2023-01-31",
+      "outboundV20Liters": 600,
+      "expectedSalesAmount": 4650,
+      "cashAmount": 1600,
+      "wechatAmount": 1800,
+      "alipayAmount": 1200,
+      "creditCardAmount": 0,
+      "otherAmount": 50,
+      "actualSalesAmount": 4650,
+      "salesDifference": 0
+    }
+  ],
+  "finalInventoryData": [
+    {
+      "stationName": "station-1-1-1",
+      "oilName": "92#汽油",
+      "dateRange": "2023-01-01 ~ 2023-01-31",
+      "bookV20Liters": 4150,
+      "actualV20Liters": 4145,
+      "differenceV20Liters": -5,
+      "bookAmount": 30004.5,
+      "actualAmount": 29968.35,
+      "differenceAmount": -36.15
+    },
+    {
+      "stationName": "station-1-1-2",
+      "oilName": "95#汽油",
+      "dateRange": "2023-01-01 ~ 2023-01-31",
+      "bookV20Liters": 2850,
+      "actualV20Liters": 2845,
+      "differenceV20Liters": -5,
+      "bookAmount": 22116,
+      "actualAmount": 22077.2,
+      "differenceAmount": -38.8
+    },
+    {
+      "stationName": "station-2-1-1",
+      "oilName": "92#汽油",
+      "dateRange": "2023-01-01 ~ 2023-01-31",
+      "bookV20Liters": 3900,
+      "actualV20Liters": 3905,
+      "differenceV20Liters": 5,
+      "bookAmount": 28275,
+      "actualAmount": 28311.25,
+      "differenceAmount": 36.25
+    },
+    {
+      "stationName": "station-2-1-2",
+      "oilName": "95#汽油",
+      "dateRange": "2023-01-01 ~ 2023-01-31",
+      "bookV20Liters": 2500,
+      "actualV20Liters": 2505,
+      "differenceV20Liters": 5,
+      "bookAmount": 19450,
+      "actualAmount": 19488.9,
+      "differenceAmount": 38.9
+    },
+    {
+      "stationName": "station-3-1-1",
+      "oilName": "92#汽油",
+      "dateRange": "2023-01-01 ~ 2023-01-31",
+      "bookV20Liters": 3700,
+      "actualV20Liters": 3695,
+      "differenceV20Liters": -5,
+      "bookAmount": 26640,
+      "actualAmount": 26604,
+      "differenceAmount": -36
+    },
+    {
+      "stationName": "station-3-1-2",
+      "oilName": "95#汽油",
+      "dateRange": "2023-01-01 ~ 2023-01-31",
+      "bookV20Liters": 2400,
+      "actualV20Liters": 2398,
+      "differenceV20Liters": -2,
+      "bookAmount": 18600,
+      "actualAmount": 18584.5,
+      "differenceAmount": -15.5
+    }
+  ]
+} 
